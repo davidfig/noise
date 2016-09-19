@@ -1,0 +1,23 @@
+{
+  "name": "noise",
+  "version": "1.0.0",
+  "description": "a javascript simple noise generator based on code from from {@link http://www.scratchapixel.com/old/lessons/3d-advanced-lessons/noise-part-1/creating-a-simple-1d-noise/}, via {@link http://www.michaelbromley.co.uk/blog/90/simple-1d-noise-in-javascript}",
+  "main": "noise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc2md --template README.hbs *.js > README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfig/noise.git"
+  },
+  "author": "David Figatner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidfig/noise/issues"
+  },
+  "homepage": "https://github.com/davidfig/noise#readme",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^1.3.7"
+  }
+}
