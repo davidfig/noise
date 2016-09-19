@@ -35,6 +35,7 @@ class SimpleNoise
      */
     constructor(options)
     {
+        options = options || {};
         this.maxVertices = options.maxVertices || 256;
         this.maxVerticesMask = this.maxVertices - 1;
 

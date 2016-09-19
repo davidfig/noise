@@ -1,5 +1,5 @@
 {
-  "name": "noise",
+  "name": "yy-noise",
   "version": "1.0.0",
   "description": "a javascript simple noise generator based on code from from {@link http://www.scratchapixel.com/old/lessons/3d-advanced-lessons/noise-part-1/creating-a-simple-1d-noise/}, via {@link http://www.michaelbromley.co.uk/blog/90/simple-1d-noise-in-javascript}",
   "main": "noise.js",
